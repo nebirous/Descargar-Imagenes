@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Descargar Imagenes</string>
+    <string name="Descargar">Descargar</string>
+    <string name="Introduce">Introduce una dirección en el campo de texto para descargar sus imágenes</string>
+    <string name="nombreguardar">Guardar como</string>
+    <string name="hecho">Archivo guardado en almacenamiento externo</string>
+</resources>
